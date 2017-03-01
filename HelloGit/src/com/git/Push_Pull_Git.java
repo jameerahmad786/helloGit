@@ -6,6 +6,7 @@ public static void main(String[] args) {
 	//print games
 	for (String game:games)
 	{
+		System.out.println("Hi this is first line");
 		System.out.println(game);
 	}
 }
